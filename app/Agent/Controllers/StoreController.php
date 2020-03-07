@@ -2,6 +2,7 @@
 
 namespace App\Agent\Controllers;
 
+use App\Models\Agent;
 use App\Models\Store;
 use Encore\Admin\Controllers\AdminController;
 use Encore\Admin\Form;
