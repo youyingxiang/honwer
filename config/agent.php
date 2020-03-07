@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => '攻略生活代理商后台',
+    'name' => '鸿威sass代理商后台',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<strong>攻略生活</strong>代理商后台',
+    'logo' => '<strong>鸿威sass</strong>代理商后台',
 
     /*
     |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
     | '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo_mini' => '<b>攻略</b>',
+    'logo_mini' => '<b>鸿威sass</b>',
 
     'bootstrap' => app_path('Agent/bootstrap.php'),
 
@@ -77,7 +77,7 @@ return [
     | Html title for all pages.
     |
     */
-    'title' => '攻略生活',
+    'title' => '鸿威sass代理商后台',
 
     /*
     |--------------------------------------------------------------------------
